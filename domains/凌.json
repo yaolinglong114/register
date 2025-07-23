@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "yaolinglong114",
+    "email": "[3021333031@qq.com]"
+  },
+  "records": {
+    "NS": ["bingo.ns.cloudflare.com", "gabriel.ns.cloudflare.com"]
+  },
+  "proxied": true
+}
